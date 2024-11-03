@@ -2,7 +2,7 @@ name: "Podcast Generator"
 author: "Saimon Islam."
 description: "Generatesa feed for podcast from YAML file"
 runs:
-    usign: "docker"
+    using: "docker"
     image: "Dockerfile"
 branding: 
     icon: "git-branch"
